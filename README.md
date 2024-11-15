@@ -1,1 +1,1 @@
-play the game here: https://monjeydaguineapig.github.io/SlopeUnblocked.github.io/
+# https://monjeydaguineapig.github.io/SlopeUnblocked.github.io/
